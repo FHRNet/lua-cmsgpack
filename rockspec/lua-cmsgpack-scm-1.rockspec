@@ -1,7 +1,7 @@
 package = "lua-cmsgpack"
 version = "scm-1"
 source = {
-   url = "git://github.com/antirez/lua-cmsgpack.git",
+   url = "git+https://github.com/antirez/lua-cmsgpack.git",
    branch = "master"
 }
 description = {
